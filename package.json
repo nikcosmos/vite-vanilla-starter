@@ -5,7 +5,7 @@
    "type": "module",
    "scripts": {
       "dev": "vite",
-      "build": "vite build",
+      "build": "vite build --base=/https://github.com/nikcosmos/vite-vanilla-starter/",
       "preview": "vite preview"
    },
    "devDependencies": {
